@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF:-1,EKATTOR TV HD
+http://172.16.60.2:8088/201/index.m3u8
+
+#EXTINF:-1,ATN BANGLA HD
+http://172.16.60.2:8088/202/index.m3u8
+
+#EXTINF:-1,ATN NEWS HD
+http://172.16.60.2:8088/203/index.m3u8
+
+#EXTINF:-1,DBC NEWS HD
+http://172.16.60.2:8088/204/index.m3u8
+
+#EXTINF:-1,SOMOY NEWS HD
+http://172.16.60.2:8088/205/index.m3u8
+
+#EXTINF:-1,MAASRANGA TV HD
+http://172.16.60.2:8088/206/index.m3u8
+
+#EXTINF:-1,CHANNEL I HD 
+http://172.16.60.2:8088/207/index.m3u8
+
+#EXTINF:-1,Jamuna News
+http://172.16.60.2:8088/209/index.m3u8
+
+#EXTINF:-1,Gazi tv
+http://172.16.60.2:8088/106/index.m3u8
+
+#EXTINF:-1,ZEE BANGLA HD
+http://172.16.60.2:8088/301/index.m3u8
+
+#EXTINF:-1,STAR JALSA HD
+http://172.16.60.2:8088/302/index.m3u8
+
+#EXTINF:-1,JALSA MOVIES HD
+http://172.16.60.2:8088/303/index.m3u8
+
+#EXTINF:-1,COLURS BANGLA HD
+http://172.16.60.2:8088/304/index.m3u8
+
+#EXTINF:-1,ZEE BANGLA SONAR 
+http://172.16.60.2:8088/305/index.m3u8
+
+#EXTINF:-1,SONY AATH
+http://172.16.60.2:8088/306/index.m3u8
+
+#EXTINF:-1,STAR PLUS HD 
+http://172.16.60.2:8088/401/index.m3u8
+
+#EXTINF:-1,STAR GOLD HD
+http://172.16.60.2:8088/402/index.m3u8
+
+#EXTINF:-1,SONY TELEVISION HD
+http://172.16.60.2:8088/403/index.m3u8
+
+#EXTINF:-1,COLOURS HD
+http://172.16.60.2:8088/405/index.m3u8
+
+#EXTINF:-1,ZEE CINEMA HD 
+http://172.16.60.2:8088/406/index.m3u8
+
+#EXTINF:-1,& PICTURES HD
+http://172.16.60.2:8088/407/index.m3u8
+
+#EXTINF:-1,STAR MOVIES HD 
+http://172.16.60.2:8088/501/index.m3u8
+
+#EXTINF:-1,SONY PIX HD 
+http://172.16.60.2:8088/503/index.m3u8
+
+#EXTINF:-1,NICK JR HD
+http://172.16.60.2:8088/601/index.m3u8
+
+#EXTINF:-1,DISNEP CHANNEL 
+http://172.16.60.2:8088/602/index.m3u8
+
+#EXTINF:-1,SANGET BANGLA 
+http://172.16.60.2:8088/702/index.m3u8
+
+#EXTINF:-1,9x JALWA
+http://172.16.60.2:8088/703/index.m3u8
+
+#EXTINF:-1,9XM
+http://172.16.60.2:8088/704/index.m3u8
+
+#EXTINF:-1,DISCOVERY HD
+http://172.16.60.2:8088/801/index.m3u8
+
+#EXTINF:-1,NATGEO WILD HD
+http://172.16.60.2:8088/802/index.m3u8
+
+#EXTINF:-1,United Sport 2 Hd
+http://172.16.60.2:8088/101/index.m3u8
+
+#EXTINF:-1,Tsport HD
+http://172.16.60.2:8088/102/index.m3u8
+
+#EXTINF:-1,Gazi Tv
+http://172.16.60.2:8088/106/index.m3u8
+
+#EXTINF:-1,Star SPORTS 1 HD
+http://172.16.60.2:8088/110/index.m3u8
+
+#EXTINF:-1,Star SPORTS 2  HD
+http://172.16.60.2:8088/115/index.m3u8
+
+#EXTINF:-1,Star SPORTS SELECT  1 HD
+http://172.16.60.2:8088/123/index.m3u8
+
+#EXTINF:-1,Star SPORTS SELECT 2 HD 
+http://172.16.60.2:8088/124/index.m3u8
+
+#EXTINF:-1,SONY SPORTS 1 HD
+http://172.16.60.2:8088/119/index.m3u8
+
+#EXTINF:-1,SONY SPORTS 2 HD
+http://172.16.60.2:8088/120/index.m3u8
+
+#EXTINF:-1,SONY SPORTS 3 HD
+http://172.16.60.2:8088/121/index.m3u8
+
+#EXTINF:-1,A SPORTS HD
+http://172.16.60.2:8088/127/index.m3u8
+
+#EXTINF:-1,EURO SPORTS HD
+http://172.16.60.2:8088/128/index.m3u8
